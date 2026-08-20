@@ -104,27 +104,6 @@ CDAC student and aspiring Software Engineer with a strong foundation in Java, Sp
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronit1161&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ronit1161&theme=midnight-purple&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit1161&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ronit1161&theme=algolia&no-frame=true"/>
-</div>
-
----
 
 # Current Focus
 
