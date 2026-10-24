@@ -48,7 +48,8 @@ I value clean implementations, thoughtful problem-solving, and software that sol
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronit1161&bg_color=0D1117&color=E6EDF3&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 </div>
 
